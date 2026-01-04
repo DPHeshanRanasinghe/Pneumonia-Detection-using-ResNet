@@ -7,6 +7,16 @@
 
 A comprehensive deep learning pipeline for automated pneumonia detection from chest X-ray images using convolutional neural networks and transfer learning with ResNet50 and EfficientNetB0 architectures. The project covers the complete workflow from dataset analysis through model training, evaluation, and clinical interpretation.
 
+## Live Demo
+
+**Try it now:** [pneumoai.vercel.app](https://pneumoai.vercel.app)
+
+Experience the power of AI-driven pneumonia detection through our user-friendly web interface. Upload chest X-ray images and receive instant AI-powered diagnostics using our ResNet50 model trained on thousands of medical images. The web application provides fast, accurate predictions with a clean, intuitive interface designed for both medical professionals and researchers.
+
+![PneumoAI Web Application](assets/pneumoai-screenshot.png)
+
+*AI-powered chest X-ray analysis platform featuring ResNet50 architecture with high accuracy and fast inference capabilities.*
+
 ## Overview
 
 This project implements a complete medical image classification system designed to assist in the detection of pneumonia from chest X-ray images. The system employs state-of-the-art deep learning techniques including transfer learning from ImageNet-pretrained models, medical-appropriate data augmentation, and comprehensive clinical evaluation metrics.

@@ -1,0 +1,131 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Machine Learning / Data Science
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.sav
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.tsv
+*.parquet
+logs/
+tensorboard/
+checkpoints/
+saved_models/
+experiments/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Kaggle
+kaggle.json
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# Cache
+__pycache__/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Node modules (if using any JS tools)
+node_modules/
+package-lock.json
+yarn.lock
