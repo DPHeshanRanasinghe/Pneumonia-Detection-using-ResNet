@@ -13,7 +13,9 @@ A comprehensive deep learning pipeline for automated pneumonia detection from ch
 
 Experience the power of AI-driven pneumonia detection through our user-friendly web interface. Upload chest X-ray images and receive instant AI-powered diagnostics using our ResNet50 model trained on thousands of medical images. The web application provides fast, accurate predictions with a clean, intuitive interface designed for both medical professionals and researchers.
 
-![PneumoAI Web Application](assets/pneumoai-screenshot.png)
+<p align="center">
+  <img src="assets/pneumoai-screenshot.png" alt="PneumoAI Web Application" width="800">
+</p>
 
 *AI-powered chest X-ray analysis platform featuring ResNet50 architecture with high accuracy and fast inference capabilities.*
 
