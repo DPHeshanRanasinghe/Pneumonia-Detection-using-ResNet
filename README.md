@@ -162,6 +162,7 @@ pip install tensorflow keras scikit-learn matplotlib seaborn pillow opencv-pytho
 - Transfer learning based on ImageNet pre-trained weights
 
 ## Author 
+
 **Heshan Ranasinghe**  
 Electronic and Telecommunication Engineering Undergraduate
 
