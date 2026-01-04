@@ -5,13 +5,15 @@
 ![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)
 
 
-A comprehensive deep learning pipeline for automated pneumonia detection from chest X-ray images using convolutional neural networks and transfer learning with ResNet50 and EfficientNetB0 architectures. The project covers the complete workflow from dataset analysis through model training, evaluation, and clinical interpretation.
+This project uses deep learning to detect pneumonia from chest X-ray images. It is an end-to-end system that covers everything from data preparation to model training, evaluation, and deployment. The main goal is to help doctors and researchers identify pneumonia faster and more accurately using AI.
+
+The system is built using Convolutional Neural Networks (CNNs) and transfer learning with ResNet50 and EfficientNetB0.
 
 ## Live Demo
 
 **Try it now:** [pneumoai.vercel.app](https://pneumoai.vercel.app)
 
-Experience the power of AI-driven pneumonia detection through our user-friendly web interface. Upload chest X-ray images and receive instant AI-powered diagnostics using our ResNet50 model trained on thousands of medical images. The web application provides fast, accurate predictions with a clean, intuitive interface designed for both medical professionals and researchers.
+You can upload a chest X-ray image and instantly get a prediction from the trained AI model. The web app is simple, fast, and easy to use, designed for both medical professionals and students.
 
 <p align="center">
   <img src="assets/pneumoai-screenshot.png" alt="PneumoAI Web Application" width="800">
@@ -21,7 +23,7 @@ Experience the power of AI-driven pneumonia detection through our user-friendly 
 
 ## Overview
 
-This project implements a complete medical image classification system designed to assist in the detection of pneumonia from chest X-ray images. The system employs state-of-the-art deep learning techniques including transfer learning from ImageNet-pretrained models, medical-appropriate data augmentation, and comprehensive clinical evaluation metrics.
+Pneumonia is a serious lung infection that can be seen in chest X-ray images. Manually analyzing X-rays takes time and depends on expert knowledge. This project automates that process using deep learning.
 
 **Dataset:** [Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) from Kaggle
 
