@@ -150,7 +150,6 @@ pip install tensorflow keras scikit-learn matplotlib seaborn pillow opencv-pytho
 
 ## Future Enhancements
 
-- Deploy the best model as an interactive web application using Streamlit or Gradio
 - Implement Grad-CAM (Gradient-weighted Class Activation Mapping) for visual explanations of model predictions
 - Validate performance on external chest X-ray datasets from different sources
 - Collaborate with medical professionals for clinical validation and deployment considerations
