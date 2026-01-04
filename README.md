@@ -7,7 +7,7 @@ This project implements a complete deep learning pipeline for detecting pneumoni
 - **Models:**
   - Baseline CNN (from scratch)
   - ResNet50 (transfer learning, 2-phase training)
-  - EfficientNetB0 (transfer learning)
+  - EfficientNetB0 (transfer learning 2-phase training)
 - **Key Features:**
   - Data analysis and visualization
   - Stratified train/validation/test split
