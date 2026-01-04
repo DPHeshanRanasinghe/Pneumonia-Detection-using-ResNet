@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)
-![Status](https://img.shields.io/badge/Status-Complete-success.svg)
+
 
 A comprehensive deep learning pipeline for automated pneumonia detection from chest X-ray images using convolutional neural networks and transfer learning with ResNet50 and EfficientNetB0 architectures. The project covers the complete workflow from dataset analysis through model training, evaluation, and clinical interpretation.
 
