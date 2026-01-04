@@ -161,6 +161,7 @@ pip install tensorflow keras scikit-learn matplotlib seaborn pillow opencv-pytho
 - Built with TensorFlow, Keras, and scikit-learn
 - Transfer learning based on ImageNet pre-trained weights
 
+## Author 
 **Heshan Ranasinghe**  
 Electronic and Telecommunication Engineering Undergraduate
 
